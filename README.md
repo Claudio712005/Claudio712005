@@ -22,7 +22,6 @@
 <div align="center">
   <h2>I'm learning yet<h2>
   <img alt="Clau-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Clau-Springboot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" />
   <img alt="Clau-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Clau-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
