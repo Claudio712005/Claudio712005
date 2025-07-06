@@ -6,8 +6,6 @@
   </a>
 </div>
 
----
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -15,8 +13,6 @@
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio712005&layout=compact&hide_border=true&title_color=40E0D0&text_color=c9d1d9&bg_color=1A1A1A" alt="Top Languages" />
   </div>
 </div>
-
----
 
 <div align="center">
   <h2>🚀 Technologies & Tools</h2>
@@ -33,10 +29,9 @@
     <img alt="Oracle DB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
     <img alt="Redis" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
     <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img alt="Go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
   </div>
 </div>
-
----
 
 <div align="center">
   <h2>📫 Let's Connect!</h2>
