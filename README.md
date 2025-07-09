@@ -20,18 +20,18 @@
   <img alt="Go" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px;">
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px; width: 100%;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Claudio712005&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
     alt="GitHub Stats"
-    height="200"
-    style="border-radius: 10px;"
+    style="flex: 1 1 45%; height: 200px; border-radius: 10px; object-fit: cover;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio712005&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
     alt="Top Languages"
-    height="200"
-    style="border-radius: 10px;"
+    style="flex: 1 1 45%; height: 200px; border-radius: 10px; object-fit: cover;"
   />
 </div>
 
@@ -39,26 +39,26 @@
 
 ### Repositórios Recentes
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: start;">
+<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: start;">
   <a href="https://github.com/Claudio712005/EventNtfyApi" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=EventNtfyApi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
       alt="EventNtfyApi"
-      style="max-width: 274px; border-radius: 10px;"
+      width="330"
     />
   </a>
   <a href="https://github.com/Claudio712005/LibraryControl" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=LibraryControl&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" 
       alt="LibraryControl"
-      style="max-width: 274px; border-radius: 10px;"
+      width="330"
     />
   </a>
   <a href="https://github.com/Claudio712005/go-task-api" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin?username=Claudio712005&repo=go-task-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" 
       alt="go-task-api"
-      style="max-width: 274px; border-radius: 10px;"
+      width="330"
     />
   </a>
 </div>
