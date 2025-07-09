@@ -1,51 +1,64 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>
+# Cláudio da Silva Araújo Filho
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Cláudio+Araújo;A+Passionate+Developer+from+Brazil;Welcome!+%F0%9F%91%8B"/>
+**`FullStack Developer`**
+
+> Sou o Cláudio, tenho 20 anos, moro no estado de São Paulo, graduado em **Análise e Desenvolvimento de Sistemas** com mais de 1 ano de experiência de mercado com programação. Sou apaixonado por desafios pois vejo neles uma oportunidade de crescimento e avanço na minha carreira. Sou uma pessoa muito curiosa e criativa, o que me incentivou a me formar e trabalhar com tecnologia.
+
+### Hard Skills
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 30px;">
+  <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Spring Boot" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Oracle" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+  <img alt="Redis" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Go" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Claudio712005&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+    alt="GitHub Stats"
+    height="200"
+    style="border-radius: 10px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio712005&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+    alt="Top Languages"
+    height="200"
+    style="border-radius: 10px;"
+  />
+</div>
+
+---
+
+### Repositórios Recentes
+
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: start;">
+  <a href="https://github.com/Claudio712005/EventNtfyApi" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=EventNtfyApi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
+      alt="EventNtfyApi"
+      style="max-width: 274px; border-radius: 10px;"
+    />
+  </a>
+  <a href="https://github.com/Claudio712005/LibraryControl" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=LibraryControl&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" 
+      alt="LibraryControl"
+      style="max-width: 274px; border-radius: 10px;"
+    />
+  </a>
+  <a href="https://github.com/Claudio712005/go-task-api" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin?username=Claudio712005&repo=go-task-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" 
+      alt="go-task-api"
+      style="max-width: 274px; border-radius: 10px;"
+    />
   </a>
 </div>
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Claudio712005&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=c9d1d9&bg_color=1A1A1A" alt="GitHub Stats" />
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio712005&layout=compact&hide_border=true&title_color=40E0D0&text_color=c9d1d9&bg_color=1A1A1A" alt="Top Languages" />
-  </div>
-</div>
-
-<div align="center">
-  <h2>🚀 Technologies & Tools</h2>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-    <img alt="Spring Boot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-    <img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img alt="Node.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img alt="Oracle DB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-    <img alt="Redis" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
-    <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img alt="Go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-  </div>
-</div>
-
-<div align="center">
-  <h2>📫 Let's Connect!</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/claudiodesenvolvedorjava/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:clausilvaaraujo11@gmail.com">
-      <img src="https://img.shields.io/badge/Email-00CED1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/Claudio712005" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-00CED1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=footer"/>
