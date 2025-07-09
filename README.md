@@ -26,12 +26,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=Claudio712005&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
     alt="GitHub Stats"
-    style="flex: 1 1 45%; height: 200px; border-radius: 10px; object-fit: cover;"
+    style="flex: 1 1 45%; height: 150px; border-radius: 10px; object-fit: cover;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio712005&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
     alt="Top Languages"
-    style="flex: 1 1 45%; height: 200px; border-radius: 10px; object-fit: cover;"
+    style="flex: 1 1 45%; height: 150px; border-radius: 10px; object-fit: cover;"
   />
 </div>
 
