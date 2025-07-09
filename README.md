@@ -44,21 +44,21 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=EventNtfyApi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
       alt="EventNtfyApi"
-      width="300"
+      width="250"
     />
   </a>
   <a href="https://github.com/Claudio712005/LibraryControl" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=LibraryControl&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" 
       alt="LibraryControl"
-      width="300"
+      width="250"
     />
   </a>
   <a href="https://github.com/Claudio712005/go-task-api" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin?username=Claudio712005&repo=go-task-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" 
       alt="go-task-api"
-      width="300"
+      width="250"
     />
   </a>
 </div>
