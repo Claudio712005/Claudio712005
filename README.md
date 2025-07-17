@@ -41,9 +41,9 @@
 ### Repositórios Recentes
 
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: start;">
-  <a href="https://github.com/Claudio712005/EventNtfyApi" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Claudio712005/go-microservices-architecture" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=EventNtfyApi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=go-microservices-architecture&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
       alt="EventNtfyApi"
       width="275"
     />
