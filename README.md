@@ -21,6 +21,8 @@
   <img alt="Go" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
   <img alt="RabbitMQ" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
   <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="PrimeReact" height="30" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primereact-logo.png?ssl=1" />
+  <img alt="PrimeFaces" height="30" src="https://showcase.primefaces.org/jakarta.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase" />
 </div>
 
 ---
