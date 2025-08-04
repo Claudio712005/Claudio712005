@@ -24,6 +24,7 @@
   <img alt="PrimeReact" height="30" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primereact-logo.png?ssl=1" />
   <img alt="PrimeFaces" height="30" src="https://showcase.primefaces.org/jakarta.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase" />
   <img alt="Junit" height="30" src="https://junit.org/assets/img/junit5-logo.png" />
+  <img alt="JWT" height="30" src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" />
 </div>
 
 ---
