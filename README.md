@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-> Sou o Cláudio, tenho 20 anos, moro no estado de São Paulo, graduado em **Análise e Desenvolvimento de Sistemas** com mais de 1 ano de experiência de mercado com programação. Sou apaixonado por desafios pois vejo neles uma oportunidade de crescimento e avanço na minha carreira. Sou uma pessoa muito curiosa e criativa, o que me incentivou a me formar e trabalhar com tecnologia.
+> Sou o Cláudio, tenho 21 anos, moro no estado de São Paulo, graduado em **Análise e Desenvolvimento de Sistemas** com mais de 2 ano de experiência de mercado com programação. Sou apaixonado por desafios pois vejo neles uma oportunidade de crescimento e avanço na minha carreira. Sou uma pessoa muito curiosa e criativa, o que me incentivou a me formar e trabalhar com tecnologia.
 
 ### Hard Skills
 
