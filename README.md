@@ -1,72 +1,62 @@
-# Cláudio da Silva Araújo Filho
+<h1 align="center">Cláudio da Silva Araújo Filho</h1>
 
-**`FullStack Developer`**
+<p align="center">
+  <strong>Back-end Focused Developer</strong>
+</p>
 
-> Sou o Cláudio, tenho 21 anos, moro no estado de São Paulo, graduado em **Análise e Desenvolvimento de Sistemas** com mais de 2 ano de experiência de mercado com programação. Sou apaixonado por desafios pois vejo neles uma oportunidade de crescimento e avanço na minha carreira. Sou uma pessoa muito curiosa e criativa, o que me incentivou a me formar e trabalhar com tecnologia.
-
-### Hard Skills
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 30px;">
-  <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="Spring Boot" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="TAILWIND" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png"/>
-  <img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="Oracle" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-  <img alt="Redis" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
-  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="Go" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-  <img alt="RabbitMQ" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
-  <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="PrimeReact" height="30" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primereact-logo.png?ssl=1" />
-  <img alt="PrimeFaces" height="30" src="https://showcase.primefaces.org/jakarta.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase" />
-  <img alt="Junit" height="30" src="https://junit.org/assets/img/junit5-logo.png" />
-  <img alt="JWT" height="30" src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" />
-</div>
+<p align="center">
+  Desenvolvedor de software com mais de 2 anos de experiência profissional, formado em
+  <strong>Análise e Desenvolvimento de Sistemas</strong>.
+  Atuo principalmente no desenvolvimento de aplicações escaláveis, APIs robustas e arquiteturas modernas,
+  sempre buscando qualidade de código, boas práticas e evolução contínua.
+</p>
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px; width: 100%;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Claudio712005&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    alt="GitHub Stats"
-    style="flex: 1 1 45%; height: 195px; border-radius: 10px; object-fit: cover;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio712005&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    alt="Top Languages"
-    style="flex: 1 1 45%; height: 195px; border-radius: 10px; object-fit: cover;"
-  />
-</div>
+## 🧠 About Me
+
+- 📍 São Paulo, Brasil  
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+- 💼 +2 anos de experiência no mercado  
+- 🚀 Apaixonado por desafios, arquitetura de software e aprendizado contínuo  
 
 ---
 
-### Repositórios Recentes
+## 🛠️ Tech Stack & Hard Skills
 
-<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: start;">
-  <a href="https://github.com/Claudio712005/go-microservices-architecture" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=go-microservices-architecture&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
-      alt="EventNtfyApi"
-      width="275"
-    />
-  </a>
-  <a href="https://github.com/Claudio712005/LibraryControl" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Claudio712005&repo=LibraryControl&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" 
-      alt="LibraryControl"
-      width="275"
-    />
-  </a>
-  <a href="https://github.com/Claudio712005/go-task-api" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin?username=Claudio712005&repo=go-task-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" 
-      alt="go-task-api"
-      width="275"
-    />
-  </a>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
+  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primereact-logo.png?ssl=1" height="35"/>
+  <img src="https://showcase.primefaces.org/jakarta.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase" height="35"/>
+  <img src="https://junit.org/assets/img/junit5-logo.png" height="35"/>
+  <img src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" height="35"/>
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudio712005&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudio712005&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudio712005&theme=github_dark" width="48%" />
+</p>
+
+---
