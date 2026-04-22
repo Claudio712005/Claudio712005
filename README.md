@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Cláudio%20Araújo&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=60&descSize=22&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Cláudio%20Araújo&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Java%20|%20Kotlin%20Backend%20Developer&descAlignY=60&descSize=22&descColor=a8b2d8" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;REST+API+Design+%26+Architecture;Clean+Code+%7C+SOLID+%7C+Design+Patterns;Always+shipping%2C+always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Java%20|%20Kotlin+%26+Spring+Boot;REST+API+Design+%26+Architecture;Clean+Code+%7C+SOLID+%7C+Design+Patterns;Always+shipping%2C+always+learning.)](https://git.io/typing-svg)
 
 </div>
 
