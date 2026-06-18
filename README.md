@@ -119,6 +119,10 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 <img src="https://streak-stats.demolab.com/?user=Claudio712005&hide_border=true&background=0f1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=536b8c&currStreakNum=ffffff&sideNums=ffffff&dayLabels=a8b2d8&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 
 </div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=claudio712005&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio712005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
