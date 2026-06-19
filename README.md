@@ -128,7 +128,7 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 
 ## Certificações & estudo contínuo
 
-- Graduação em **Engenharia de Software** - SPTech School *(concluída)*
+- Graduação em **Análise e Desenvolvimento de Sistemas** - SPTech School *(concluída)*
 - Graduação em **Engenharia de Software** - Anhanguera *(em andamento)*
 - Pós-graduação em **Arquitetura de Software** — FIAP *(em andamento)*
 
