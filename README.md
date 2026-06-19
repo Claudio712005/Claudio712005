@@ -128,12 +128,9 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 
 ## Certificações & estudo contínuo
 
-- Formação **Kotlin e Spring Boot**
-- **Java e Quarkus**: aplicações Cloud Native
-- Trilha **Kotlin e DevOps** com aplicação Cloud Native
-- **Spring Boot e React**
-- **Go** do zero + aplicação completa
-- 🎓 Pós-graduação em **Arquitetura de Software** — FIAP *(em andamento)*
+- Graduação em **Engenharia de Software** - SPTech School *(concluída)*
+- Graduação em **Engenharia de Software** - Anhanguera *(em andamento)*
+- Pós-graduação em **Arquitetura de Software** — FIAP *(em andamento)*
 
 ---
 
