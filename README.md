@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=210&section=header&text=Cl%C3%A1udio%20Ara%C3%BAjo&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring&descAlignY=58&descSize=20&descColor=e94560" width="100%" /> 
   
 </div> 
- 
+  
 <div align="center"> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiodesenvolvedorjava/)
