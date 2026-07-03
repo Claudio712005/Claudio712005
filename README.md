@@ -4,7 +4,7 @@
   
 </div> 
   
-<div align="center"> 
+<div align="center">  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiodesenvolvedorjava/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-e94560?style=for-the-badge&logo=vercel&logoColor=white)](https://claudio712005.github.io/portifolio/pt-BR)
