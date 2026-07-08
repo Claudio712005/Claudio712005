@@ -3,7 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=210&section=header&text=Cl%C3%A1udio%20Ara%C3%BAjo&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring&descAlignY=58&descSize=20&descColor=e94560" width="100%" /> 
   
 </div>  
-  
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=e94560&width=900&size=22&center=true&lines=Ol%C3%A1,+eu+sou+o+Cl%C3%A1udio;Desenvolvedor+Back-end+%7C+Java+%26+Kotlin+%7C+Spring;WebFlux+e+Arquitetura+Hexagonal;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
+</div>
+
 <div align="center">  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiodesenvolvedorjava/)
@@ -28,6 +32,14 @@ Atualmente estou na **Avanade** desenvolvendo APIs reativas para consulta de dad
 🎓 Pós em Arquitetura de Software (FIAP) · Eng. de Software (Anhanguera)
 🧭 Foco atual: sistemas distribuídos, programação reativa e arquitetura hexagonal
 ```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=claudio712005&bg_color=0f1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&title_color=ffffff&border_color=1a1a2e&hide_border=false" width="100%" />
+
+</div>
 
 ---
 
@@ -116,13 +128,30 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Claudio712005&hide_border=true&background=0f1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=536b8c&currStreakNum=ffffff&sideNums=ffffff&dayLabels=a8b2d8&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=claudio712005&hide_border=true&background=0f1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=536b8c&currStreakNum=ffffff&sideNums=ffffff&dayLabels=a8b2d8&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 
 </div>
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=claudio712005&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio712005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=claudio712005&show_icons=true&hide_border=true&bg_color=45,0f3460,1a1a2e&title_color=e94560&icon_color=e94560&text_color=e5e5f0"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio712005&layout=compact&langs_count=6&hide_border=true&bg_color=45,0f3460,1a1a2e&title_color=e94560&text_color=e5e5f0"/>
 </p>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=claudio712005&theme=radical&no-frame=true&column=-1&margin-w=10&margin-h=10" width="100%" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claudio712005/claudio712005/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claudio712005/claudio712005/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/claudio712005/claudio712005/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
