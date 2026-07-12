@@ -1,11 +1,11 @@
 <div align="center"> 
    
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=210&section=header&text=Cl%C3%A1udio%20Ara%C3%BAjo&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring&descAlignY=58&descSize=20&descColor=e94560" width="100%" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=210&section=header&text=Cl%C3%A1udio%20Ara%C3%BAjo&fontSize=56&fontColor=ffffff&font=JetBrains%20Mono&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring&descAlignY=58&descSize=20&descColor=e94560" width="100%" /> 
   
 </div>  
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=e94560&width=900&size=22&center=true&lines=Ol%C3%A1,+eu+sou+o+Cl%C3%A1udio;Desenvolvedor+Back-end+%7C+Java+%26+Kotlin+%7C+Spring;WebFlux+e+Arquitetura+Hexagonal;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=e94560&width=900&size=22&center=true&lines=Ol%C3%A1,+eu+sou+o+Cl%C3%A1udio;Desenvolvedor+Back-end+%7C+Java+%26+Kotlin+%7C+Spring;WebFlux+e+Arquitetura+Hexagonal;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
 </div>
 
 <div align="center">  
@@ -128,16 +128,15 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=claudio712005&hide_border=true&background=0f1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=536b8c&currStreakNum=ffffff&sideNums=ffffff&dayLabels=a8b2d8&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
-<img
-   height="200"
-   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudio712005&theme=radical"/>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudio712005&theme=radical" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudio712005&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudio712005&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudio712005&theme=radical" />
+
+<img width="80%" src="https://streak-stats.demolab.com/?user=claudio712005&hide_border=true&background=141321&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=536b8c&currStreakNum=ffffff&sideNums=ffffff&dayLabels=a8b2d8&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudio712005&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudio712005&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudio712005&theme=rose_pine)
 
 <div align="center">
 
