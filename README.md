@@ -129,19 +129,15 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=claudio712005&hide_border=true&background=0f1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=536b8c&currStreakNum=ffffff&sideNums=ffffff&dayLabels=a8b2d8&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
+<img
+   height="200"
+   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudio712005&theme=radical"/>
 
 </div>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=claudio712005&show_icons=true&hide_border=true&bg_color=45,0f3460,1a1a2e&title_color=e94560&icon_color=e94560&text_color=e5e5f0"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio712005&layout=compact&langs_count=6&hide_border=true&bg_color=45,0f3460,1a1a2e&title_color=e94560&text_color=e5e5f0"/>
-</p>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=claudio712005&theme=radical&no-frame=true&column=-1&margin-w=10&margin-h=10" width="100%" />
-
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudio712005&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudio712005&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudio712005&theme=rose_pine)
 
 <div align="center">
 
