@@ -134,7 +134,7 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudio712005&theme=radical" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudio712005&theme=radical" />
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=claudio712005&hide_border=true&background=141321&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=536b8c&currStreakNum=ffffff&sideNums=ffffff&dayLabels=a8b2d8&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=claudio712005&hide_border=true&background=141321&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=536b8c&currStreakNum=ffffff&sideNums=ffffff&dayLabels=a8b2d8&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
 
