@@ -1,9 +1,9 @@
-<div align="center"> 
+ <div align="center"> 
    
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=210&section=header&text=Cl%C3%A1udio%20Ara%C3%BAjo&fontSize=56&fontColor=ffffff&font=JetBrains%20Mono&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring&descAlignY=58&descSize=20&descColor=e94560" width="100%" /> 
   
 </div>  
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=e94560&width=900&size=22&center=true&lines=Ol%C3%A1,+eu+sou+o+Cl%C3%A1udio;Desenvolvedor+Back-end+%7C+Java+%26+Kotlin+%7C+Spring;WebFlux+e+Arquitetura+Hexagonal;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
 </div>
