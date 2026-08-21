@@ -135,7 +135,7 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 </div>
 
 <div align="center">
-
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claudio712005/claudio712005/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claudio712005/claudio712005/output/github-contribution-grid-snake.svg" />
