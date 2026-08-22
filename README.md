@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=e94560&width=900&size=22&center=true&lines=Ol%C3%A1,+eu+sou+o+Cl%C3%A1udio;Desenvolvedor+Back-end+%7C+Java+%26+Kotlin+%7C+Spring;WebFlux+e+Arquitetura+Hexagonal;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
 </div>
 
-<div align="center">  
+<div align="center">   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiodesenvolvedorjava/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-e94560?style=for-the-badge&logo=vercel&logoColor=white)](https://claudio712005.github.io/portifolio/pt-BR)
