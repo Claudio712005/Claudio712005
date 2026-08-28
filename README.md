@@ -1,18 +1,19 @@
-<div align="center">  
-   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=210&section=header&text=Cl%C3%A1udio%20Ara%C3%BAjo&fontSize=56&fontColor=ffffff&font=JetBrains%20Mono&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring&descAlignY=58&descSize=20&descColor=e94560" width="100%" /> 
-   
-</div>   
-  
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=e94560&width=900&size=22&center=true&lines=Ol%C3%A1,+eu+sou+o+Cl%C3%A1udio;Desenvolvedor+Back-end+%7C+Java+%26+Kotlin+%7C+Spring;WebFlux+e+Arquitetura+Hexagonal;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=210&section=header&text=Cl%C3%A1udio%20Ara%C3%BAjo&fontSize=56&fontColor=ffffff&font=JetBrains%20Mono&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring%20%C2%B7%20Sistemas%20Distribu%C3%ADdos&descAlignY=58&descSize=18&descColor=e94560" width="100%" />
+
 </div>
 
-<div align="center">   
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=e94560&width=900&size=22&center=true&lines=Ol%C3%A1,+eu+sou+o+Cl%C3%A1udio;Backend+Engineer+%7C+Java+21+%26+Kotlin+%7C+Spring;APIs+reativas,+WebFlux+e+Arquitetura+Hexagonal;Do+legado+ao+cloud-native,+sem+quebrar+o+neg%C3%B3cio" alt="Typing SVG"/>
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiodesenvolvedorjava/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-e94560?style=for-the-badge&logo=vercel&logoColor=white)](https://claudio712005.github.io/portifolio/pt-BR)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clausilvaaraujo11@gmail.com)
+![Location](https://img.shields.io/badge/S%C3%A3o_Paulo_·_Brasil-16213e?style=for-the-badge&logo=googlemaps&logoColor=e94560)
 
 </div>
 
@@ -20,38 +21,37 @@
 
 ## Sobre
 
-Sou desenvolvedor back-end em São Paulo. Passo a maior parte do meu tempo construindo e mantendo APIs REST em **Java** e **Spring**, e ultimamente bastante serviço reativo com **WebFlux**.
+Sou **Backend Engineer** em São Paulo, focado em **Java**, **Kotlin** e o ecossistema **Spring** — ultimamente bastante serviço reativo com **WebFlux** e **Project Reactor**.
 
-Gosto de sistema que é "chato" no melhor sentido: previsível, observável e fácil para a próxima pessoa mexer. Já trabalhei nos dois extremos disso — manutenção de sistema legado de uma grande empresa de energia (Java 8, JSF, PrimeFaces) e arquiteturas novas com Spring Boot conteinerizado e orientado a eventos. Os dois lados me ensinaram coisas diferentes sobre o que significa entregar com qualidade sem travar o negócio.
+Gosto de sistema que é "chato" no melhor sentido: previsível, observável e fácil para a próxima pessoa mexer. Já atuei nos dois extremos disso — manutenção de sistema legado de missão crítica no setor de **energia** (Java 8, JSF, PrimeFaces) e arquiteturas novas, conteinerizadas e orientadas a eventos no setor **bancário**. Os dois lados me ensinaram, de formas diferentes, o que significa entregar com qualidade sem travar o negócio.
 
-Atualmente estou na **Avanade** desenvolvendo APIs reativas para consulta de dados financeiros, e cursando uma **pós em Arquitetura de Software na FIAP**.
+Atualmente estou na **Avanade** desenvolvendo **APIs reativas para consulta de dados financeiros**, e cursando uma **pós em Arquitetura de Software na FIAP**.
 
 ```text
-📍 Diadema / São Paulo, Brasil
-💼 Desenvolvedor Back-end Pleno @ Avanade
-🎓 Pós em Arquitetura de Software (FIAP) · Eng. de Software (Anhanguera)
-🧭 Foco atual: sistemas distribuídos, programação reativa e arquitetura hexagonal
+📍 São Paulo, Brasil  ·  🌍 Aberto a remoto (Brasil / Europa)
+💼 Backend Engineer Pleno @ Avanade  ·  setor bancário
+🎓 Pós em Arquitetura de Software (FIAP)  ·  Eng. de Software (Anhanguera)
+🧭 Foco: sistemas distribuídos, programação reativa e arquitetura hexagonal
 ```
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=claudio712005&bg_color=0f1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&title_color=ffffff&border_color=1a1a2e&hide_border=false" width="100%" />
-
-</div>
 
 ---
 
 ## Trajetória
 
-**Avanade** — Desenvolvedor Back-end Pleno · *abr/2026 – atual*
-> APIs REST com **Java 21 + Spring WebFlux** e programação reativa (Project Reactor). Arquitetura **hexagonal (Ports & Adapters)** e padrões de resiliência com **Resilience4j** (Circuit Breaker e Retry com backoff exponencial) para integrações entre microsserviços.
+**Avanade** — Backend Engineer Pleno · *abr/2026 – atual*
+> APIs REST e BFFs com **Java 21 + Spring WebFlux** e programação reativa (Project Reactor), para consulta de dados financeiros no setor bancário.
+> - Arquitetura **Hexagonal (Ports & Adapters)**, DDD e Clean Architecture.
+> - Resiliência com **Resilience4j** (Circuit Breaker e Retry com backoff exponencial) nas integrações entre microsserviços.
+> - Cache com **Redis reativo** no BFF e nos serviços, usando comandos avançados (**JSON.SET**, **SEARCH**) para reduzir chamadas redundantes e latência.
+> - Ferramenta interna em **Go** para geração automática de mocks HTTP a partir de contratos OpenAPI, desacoplando o desenvolvimento entre times.
+> - Ambientes **GitOps com ArgoCD** e evolução de aplicações integradas ao Mainframe.
 
-**Stefanini Brasil** — Analista Desenvolvedor (Estágio → Júnior → Pleno) · *jan/2024 – abr/2026*
-> Suporte e evolução de sistemas legados para o setor de energia, garantindo estabilidade e continuidade do negócio. Otimizei processos de exportação em sistemas Java legados, eliminando *timeouts* e viabilizando o processamento de grandes volumes (períodos de até **6 anos** de dados) com paralelismo e concorrência. Gestão de ambientes de homologação no **Red Hat OpenShift** e atuação como referência técnica do time.
+**Stefanini Brasil** — Analista Desenvolvedor · *jan/2024 – abr/2026*
+> Setor de energia. Suporte e evolução de sistemas legados de missão crítica, garantindo estabilidade e continuidade do negócio.
+> - Otimizei processos de exportação em sistemas Java legados com **paralelismo e concorrência**, eliminando *timeouts*: relatórios que antes falhavam já a partir de 1 ano de histórico passaram a processar **6+ anos** de dados.
+> - Gestão de ambientes **Red Hat OpenShift** e atuação como referência técnica do time.
 >
-> *Promovido de estagiário a Júnior em 10 meses, depois a Pleno.*
+> *Trajetória de crescimento: Estágio → Júnior (em 10 meses) → Pleno.*
 
 ---
 
@@ -68,29 +68,31 @@ Atualmente estou na **Avanade** desenvolvendo APIs reativas para consulta de dad
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Project Reactor](https://img.shields.io/badge/Project_Reactor-1a1a2e?style=flat-square&logo=reactivex&logoColor=e94560)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
 
 **Arquitetura & Padrões**
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=flat-square)
 ![Hexagonal](https://img.shields.io/badge/Hexagonal_(Ports_&_Adapters)-16213e?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=flat-square)
 ![DDD](https://img.shields.io/badge/DDD-0f3460?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-1a1a2e?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-16213e?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-0f3460?style=flat-square)
 
 **Mensageria & Eventos**
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-**Dados**
+**Dados & Cache**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Testes & Qualidade**
+**Testes & Resiliência**
 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
@@ -102,10 +104,11 @@ Atualmente estou na **Avanade** desenvolvendo APIs reativas para consulta de dad
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-02303A?style=flat-square&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![K8S](https://img.shields.io/badge/kubernetes-02303A?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -115,7 +118,7 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 
 - **Legibilidade é feature.** Código esperto que ninguém entende em seis meses é dívida, não talento.
 - **Teste é contrato, não burocracia.** Se não está testado, está só na esperança — JUnit, Mockito, MockK e companhia entram cedo, não no fim.
-- **Resiliência é decisão de design, não remendo.** Circuit breaker, retry e timeout pensados antes da falha, e não depois do incidente.
+- **Resiliência é decisão de design, não remendo.** Circuit breaker, retry e timeout pensados antes da falha, não depois do incidente.
 - **Legado merece respeito.** Modernizar sem quebrar quem depende do sistema é metade da engenharia de verdade.
 
 ---
@@ -135,7 +138,7 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 </div>
 
 <div align="center">
- 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claudio712005/claudio712005/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claudio712005/claudio712005/output/github-contribution-grid-snake.svg" />
@@ -146,19 +149,22 @@ Não tenho um manifesto bonito na parede, mas tenho algumas convicções que apa
 
 ---
 
-## Certificações & estudo contínuo
+## Formação
 
-- Graduação em **Análise e Desenvolvimento de Sistemas** - SPTech School *(concluída)*
-- Graduação em **Engenharia de Software** - Anhanguera *(em andamento)*
 - Pós-graduação em **Arquitetura de Software** — FIAP *(em andamento)*
+- Graduação em **Engenharia de Software** — Anhanguera *(em andamento)*
+- Graduação em **Análise e Desenvolvimento de Sistemas** — SPTech School *(concluída)*
 
 ---
 
 <div align="center">
 
-**Aberto a conversas sobre back-end, arquitetura e cultura de engenharia.**
+### Aberto a conversas sobre back-end, arquitetura e cultura de engenharia.
+
+**Buscando desafios em FinTech, Banking ou produtos que valorizem arquitetura sólida e impacto real.**
 
 [![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiodesenvolvedorjava/)
+[![Email](https://img.shields.io/badge/Me_chamar_no_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clausilvaaraujo11@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=110&section=footer" width="100%" />
 
