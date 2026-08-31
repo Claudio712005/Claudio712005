@@ -21,11 +21,11 @@
 
 ## Sobre
 
-Sou **Backend Engineer** em São Paulo, focado em **Java**, **Kotlin** e o ecossistema **Spring** — ultimamente bastante serviço reativo com **WebFlux** e **Project Reactor**.
+Sou **Backend Engineer** em São Paulo, focado em **Java**, **Kotlin** e o ecossistema **Spring**.
 
-Gosto de sistema que é "chato" no melhor sentido: previsível, observável e fácil para a próxima pessoa mexer. Já atuei nos dois extremos disso — manutenção de sistema legado de missão crítica no setor de **energia** (Java 8, JSF, PrimeFaces) e arquiteturas novas, conteinerizadas e orientadas a eventos no setor **bancário**. Os dois lados me ensinaram, de formas diferentes, o que significa entregar com qualidade sem travar o negócio.
+Gosto de sistema que é "chato" no melhor sentido: previsível, observável e fácil para a próxima pessoa mexer. Já atuei nos dois extremos disso — manutenção de sistema legado de missão crítica (Java 8, JSF, PrimeFaces) e arquiteturas novas, com microsserviços, hexagonal e clean arch. Os dois lados me ensinaram, de formas diferentes, o que significa entregar com qualidade sem travar o negócio.
 
-Atualmente estou na **Avanade** desenvolvendo **APIs reativas para consulta de dados financeiros**, e cursando uma **pós em Arquitetura de Software na FIAP**.
+Atualmente estou na **Avanade** desenvolvendo **APIs reativas para o setor financeiros**, e cursando uma **pós em Arquitetura de Software na FIAP**.
 
 ```text
 📍 São Paulo, Brasil  ·  🌍 Aberto a remoto (Brasil / Europa)
