@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=210&section=header&text=Cl%C3%A1udio%20Ara%C3%BAjo&fontSize=56&fontColor=ffffff&font=JetBrains%20Mono&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring%20%C2%B7%20Sistemas%20Distribu%C3%ADdos&descAlignY=58&descSize=18&descColor=e94560" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=210&section=header&text=Cl%C3%A1udio%20Ara%C3%BAjo&fontSize=56&fontColor=ffffff&font=JetBrains%20Mono&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%C2%B7%20Kotlin%20%C2%B7%20Spring%20%C2%B7%20Sistemas%20Distribu%C3%ADdos&descAlignY=58&descSize=18&descColor=e94560" width="100%" /> 
 
 </div>
 
