@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=e94560&width=900&size=22&center=true&lines=Ol%C3%A1,+eu+sou+o+Cl%C3%A1udio;Backend+Engineer+%7C+Java+21+%26+Kotlin+%7C+Spring;APIs+reativas,+WebFlux+e+Arquitetura+Hexagonal;Do+legado+ao+cloud-native,+sem+quebrar+o+neg%C3%B3cio" alt="Typing SVG"/>
-</div>
+</div> 
 
 <div align="center">
 
